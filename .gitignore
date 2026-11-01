@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+# Agent tooling state, never commit.
+.claude-flow/
+.swarm/
+*.db
+*.rvf
+*.rvf.*
