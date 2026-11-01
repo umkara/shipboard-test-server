@@ -1,0 +1,7 @@
+.git
+.claude-flow
+.swarm
+*.db
+*.rvf
+*.rvf.*
+node_modules
