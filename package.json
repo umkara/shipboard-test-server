@@ -1,0 +1,10 @@
+{
+  "name": "shipboard-test-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny HTTP server used to test the Shipboard iOS app against Fly.io and Render.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
